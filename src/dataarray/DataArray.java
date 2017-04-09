@@ -136,7 +136,7 @@ class Person
         ClassDataArray arr;            // reference to array     
         arr = new ClassDataArray(maxSize);  // create the array                                            // insert 10 items     
         arr.insert("Papakonstantinou", "Stelios", 35, "stelios@example.com");
-        arr.insert("Smith", "Lorraine", 37, "lorra@example.com");
+        arr.insert("Smith", "Lorrainge", 37, "lorra@example.com");
         arr.insert("Yee", "Tom", 43, "tom.yee@example.com");     
         arr.insert("Adams", "Henry", 63, "henr@example.com");     
         arr.insert("Hashimoto", "Sato", 21, "satohashi@example.com");     
